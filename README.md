@@ -68,6 +68,9 @@ ROC-AUC Scoring: Optimizing for binary classification performance
     python app.py
     ```
 
+
+    ![Product Interface](templates/Capture.PNG)
+
 ## 👨‍💻 Author
 Developed by **Saba Faraz**  
 📧 Email: farazsaba96@gmail.com
