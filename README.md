@@ -47,8 +47,26 @@ ROC-AUC Scoring: Optimizing for binary classification performance
 
 **ROC-AUC:** 1.0
 
+ ## Flask App
+ To run Flask app:
 
-
+ 1. Install dependencies:
+    
+    ```bash
+    pip install -r requirements.txt
+    ```
+    
+ 3. Train the model:
+    
+    ```bash
+    python train_model.py
+    ```
+    
+ 5. Run the Flask app:
+    
+    ```bash
+    python app.py
+    ```
 
 ## 👨‍💻 Author
 Developed by **Saba Faraz**  
